@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Theme-Dashboard/static/js/main.7e3da779.js",
+    "static/js/453.24d4a267.chunk.js": "/Theme-Dashboard/static/js/453.24d4a267.chunk.js",
+    "index.html": "/Theme-Dashboard/index.html",
+    "main.7e3da779.js.map": "/Theme-Dashboard/static/js/main.7e3da779.js.map",
+    "453.24d4a267.chunk.js.map": "/Theme-Dashboard/static/js/453.24d4a267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7e3da779.js"
+  ]
+}
