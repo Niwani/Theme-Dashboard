@@ -2,7 +2,8 @@
 
 A simple frontend project that demonstrates light and dark theme toggling using JavaScript and UI state. The goal of this project is to practice theme switching logic and UI responsiveness.
 
-# 🔗 Live Demo: https://niwani.github.io/Theme-Dashboard/
+# 🔗 Live Demo: 
+https://niwani.github.io/Theme-Dashboard/
 
 ## ✨ Feature
 
@@ -39,7 +40,8 @@ npm install
 npm start
 
 
-# 📸 Video
+# Demo Video
+https://www.loom.com/share/058ccc9f986b4b00a833ddba5ece75de
 
 
 # 📌 Future Improvements
